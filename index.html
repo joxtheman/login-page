@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Login</title>
+  </head>
+  <body>
+    <main class="container">
+      <section class="section-left">
+        <div class="section-left__container">
+          <img src="logo.png" alt="log" />
+          <form class="section-left__form">
+            <label for="email"
+              >Email
+              <input type="email" id="email" name="email" required />
+            </label>
+            <label for="password"
+              >Password
+              <input type="password" name="password" required />
+            </label>
+            <button class="btn">Sign In</button>
+            <div class="section-left__instructions">
+              <div class="remember">
+                <i class="fa-solid fa-check icon"></i>
+                <p>Remember me</p>
+              </div>
+              <span><a href="#"> Forgot Password?</span></a>
+            </div>
+          </form>
+        </div>
+        <div class="footer">
+          <p>Don't have an account yet?
+            <span> <a href="#"> Join Hire Ground</a></span>
+          </p>
+        </div>
+      </section>
+      <section class="section-right__container">
+        <div class="section-right">
+          <img src="laptopTransparent.png" alt="laptop" />
+          <div class="section-right__description">
+            <h3 class="section-right__heading">Locate certified suppliers</h3>
+            <p class="section-right__text">
+              Help our buyers locate certified suppliers around the country and
+              help our suppliers generate more revenue
+            </p>
+          </div>
+          <div class="section-right__dots">
+            <a class="section-right__dot active" href="#"></a>
+            <a class="section-right__dot" href="#"></a>
+            <a class="section-right__dot" href="#"></a>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
