@@ -63,6 +63,11 @@ input {
 }
 input[type="password"] {
   letter-spacing: 4px;
+  font-family: inherit;
+  font-weight: 600;
+}
+input[type="email"] {
+  font-family: inherit;
 }
 
 .btn {
@@ -182,7 +187,7 @@ a:visited {
   text-align: center;
   color: #f4f4f4;
   margin-bottom: 10px;
-  font-weight: 400;
+  font-weight: 600;
   font-size: 14px;
 }
 .section-right__description {
