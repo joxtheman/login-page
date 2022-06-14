@@ -17,8 +17,7 @@ Reference and inspiration was taken by [Petras Nargela](https://dribbble.com/sho
 - Navigate to the top level of the directory.
 - Open index.html in your browser.
  <br/>
-<img src="https://user-images.githubusercontent.com/28581890/173514176-84ae280b-1891-4377-9a03-a6fa55ea4ece.png" width="600">
-<br/>
+<img src="./assets/login-page.png" width="600">
 
 ## License and copyright 
 Licensed under the [MIT License](LICENSE)
