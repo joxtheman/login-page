@@ -160,7 +160,7 @@ a:visited {
 }
 
 .section-right__container {
-  background-image: url("blue.jpg");
+  background-image: url("/assets/background.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -181,7 +181,7 @@ a:visited {
 }
 
 .section-right img {
-  width: 50%;
+  width: 40%;
   margin-bottom: 30px;
 }
 
