@@ -4,7 +4,7 @@
 **Simple login page**
   
 ## Technology Used
-- HTMl
+- HTML
 - CSS
 - Font Awesome
 
