@@ -94,9 +94,9 @@ input[type="email"] {
   /* background-color: #4164e3; */
 }
 .section-left img {
-  width: 150px;
+  width: 50px;
   /* background-color: #c4c4c4; */
-  margin-top: 20px;
+  margin-bottom: 15px;
 }
 
 .remember {
