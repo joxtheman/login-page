@@ -30,6 +30,8 @@ main {
   height: 90%;
   background-color: #fff;
   display: flex;
+  border-radius: 10px;
+  overflow: hidden;
 }
 
 .section-left {
