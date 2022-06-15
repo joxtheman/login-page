@@ -9,7 +9,7 @@
 - Font Awesome
 
 ## Description
-Simple login page made with HTML, CSS. Font Awesome library was used for icons.  
+Simple responsive login page made with HTML, CSS. Font Awesome library was used for icons.  
 Reference and inspiration was taken by [Petras Nargela](https://dribbble.com/shots/9512973-Hire-Ground-Sign-In).
 
 ## Setup/Installation Requirements
